@@ -25,13 +25,14 @@ Room Database 🗄️
 ZenQuotes API 🌐 (used for the Quote of the Day)
 
 Key Components 🛠️
+
 Room Database 🗂️: Used for local data storage (Portfolio details).
 
 SharedPreferences 🗝️: Used to store login status for user authentication.
 
 API Integration 🌍: ZenQuotes API is used to fetch a new motivational quote every day.
 
-Screenshots 📸
+
 Splash Screen 🖥️
 
 Login Screen 🔑
